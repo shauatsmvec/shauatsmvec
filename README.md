@@ -13,4 +13,8 @@ I build practical web applications and tools, with a focus on useful workflows a
 <p align="center"><a href="#swarm"><img src="./assets/swarm/timeline.svg?v=3a9dd65e" alt="Editor timeline of recent commits: shauatsmvec: Refresh profile overview; shauatsmvec: Highlight selected projects; shauatsmvec: Update portrait and toolkit" width="100%" /></a></p>
 <!-- SWARM:END -->
 
+## 📬 Contact
+
+[Email](mailto:shaukhan8082004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/n-shahid-khan/)
+
 [Explore my repositories](https://github.com/shauatsmvec?tab=repositories)

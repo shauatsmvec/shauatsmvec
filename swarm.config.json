@@ -84,5 +84,11 @@
         "message": "Update portrait and toolkit"
       }
     ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "shaukhan8082004@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/n-shahid-khan/",
+    "linkedinLabel": "N. Shahid Khan"
   }
 }
