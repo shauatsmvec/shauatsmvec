@@ -3,9 +3,9 @@
   "readme": "README.md",
   "out": "assets/swarm",
   "layout": {
-    "table": true,
-    "portraitWidth": "46%",
+    "table": false,
     "style": "markdown",
+    "columnWidth": "100%",
     "stagger": 0.16
   },
   "cursors": {
@@ -14,12 +14,6 @@
     "Supabase": "#3ecf8e",
     "Node": "#82c91e",
     "GitHub": "#a78bfa"
-  },
-  "portrait": {
-    "ascii": "portrait.txt",
-    "title": "shauatsmvec / profile",
-    "whoami": "Full-stack developer | Building practical web apps",
-    "alt": "An animated ASCII portrait generated from my profile artwork."
   },
   "about": {
     "title": "Building useful software.",
