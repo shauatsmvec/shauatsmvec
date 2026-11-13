@@ -3,9 +3,9 @@
   "readme": "README.md",
   "out": "assets/swarm",
   "layout": {
-    "table": false,
+    "table": true,
+    "portraitWidth": "50%",
     "style": "markdown",
-    "columnWidth": "100%",
     "stagger": 0.16
   },
   "cursors": {
@@ -61,5 +61,11 @@
       "Supabase",
       "Node.js"
     ]
+  },
+  "portrait": {
+    "ascii": "portrait.txt",
+    "title": "shauatsmvec / profile",
+    "whoami": "Full-stack developer | Building practical web apps",
+    "alt": "Animated ASCII portrait based on my photo."
   }
 }
