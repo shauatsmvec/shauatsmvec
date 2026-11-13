@@ -19,7 +19,7 @@
     "ascii": "portrait.txt",
     "title": "shauatsmvec / profile",
     "whoami": "Full-stack developer | Building practical web apps",
-    "alt": "A terminal-style monogram for shauatsmvec."
+    "alt": "An ASCII rendering of the illustrated helmeted character used as my GitHub avatar."
   },
   "about": {
     "title": "Building useful software.",
@@ -59,6 +59,13 @@
   },
   "toolkit": {
     "title": "Tools I use",
-    "items": ["React", "TypeScript", "JavaScript", "Tailwind CSS", "Supabase", "Node.js"]
+    "items": [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Tailwind CSS",
+      "Supabase",
+      "Node.js"
+    ]
   }
 }

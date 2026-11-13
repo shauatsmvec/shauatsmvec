@@ -1,10 +1,56 @@
-  _____ _   _ __  __
- / ____| | | |  \/  |
-| (___ | |_| | \  / |
- \___ \|  _  | |\/| |
- ____) | | | | |  | |
-|_____/|_| |_|_|  |_|
 
-  S H A U A T
-  ──────────
-  BUILD · LEARN · REPEAT
+
+A.,.                  3X.23222533SHsH5i2h55X  sGhHSH   hGHM3
+s;;;;;:,    .,,.      5MsS5223HS9@@9@SGHGSGH: rS&B@@A h&99##
+riiri;::.,  ,,        :G3hAXA5M#&&&&&M3Xr2GGi :2B@&9hX#HHGGS
+ssssi;:;:, .  .  .,    GHhAX23G&@@&9BSM2si3Ss..rG@@BhSHHGSSS
+AXXXXrri:,.,..:       rBGM2A2h#@&@@B&&#5XisG2,.;3&@BHGHHGSGH
+23352Arr;:,.,.. ..    h@SM5A5M#&@@@@@&S5Xi;M3..,2#&HSHHGHGGG
+3#9G55Asi:,... ..     h&HH525MS&@@@@&&G2Xi;hh:::2hHHHMHHHGGG
+#B9SSGXXri:,,   ..   :GS3H323MS&&@@@&&MAXi:3H.,.XMhMMHHHGHHG
+&&@@@BG5ri;:...   .  ;BMXAH25hG9&&&9&&3Xri:3S,. XMhMHHGGGGGH
+&@@@@&@@Gr;;,.,.      #Mii2S55H9##GS@SAsi:;hS,.iHhMHGGS##SGG
+@@@&&&99@h;:...,:.    X5ii;ASSSHMhhSS2Xr;r5Mh,:53MHGGG9@@BSG
+@@&&@&#HM9X,.. sX      r:i;rA322523M5ssA3hMhii553HSGSS&@@&SG
+@&@@&SMM5hG;:, ,.      ri:rsAXAAX52hAXshHMMsiA23G#SSSSB@&BSS
+&&BSHh355AMA.,.     ..s:X:iA32XA2X3Sh5hGGMXX2sMSSSS#SS#99SSS
+@BM3252AAAAh,     ,..,,rAXr2h3A2XAG&&B&9MAX2XG#9#SS###SSSSSS
+BG3AXXXAXXXhr   . ,r232X XA3H32AAM3&&@@&H525G9S99##9####S##S
+S5AXsrrsXXsAi  :sXhGSMX  .5hSHX3SGG@&&&@&Gh#9BB9999999##9###
+3XXsXXrrXAAA;  5GGHMh5i  XGsSHHSS&B@@&&@@B9BB9BB9&BBBB99999#
+ArsrAAsAXAAXs rHHHGM53i  #@ii##S&B&@&BB&&BBB999B&&&&B&BBBB##
+sirisrisAss32 rHMMhXs55,;&BH:MB@@9&@&B9BB99#99#B&&&&&&9999B9
+s;;ir;,,i2X52 i2GGMGSAA23@2;#S&&&G@&&B9B9#B9#SGS&&B&&BB99BB9
+s;;s:,.,;rrA2 rG9&9##5A9B&#BBBB@#G@&@BG99#BB9##GM#&&&&B9999#
+s;;X:..:::rA2 2&&B&##h3&@@B9B@&&#9&&#H3###BBB99MhH&&&&B##9#9
+A:Xr. .. :r53XSB&&B##H3&&&#S@&@BSB@h5BS#9#BBB9SGSMB&B99#S#9B
+Hri;  . .:;5MB&BBBB99GG@&SB9@@B&S9B&&&BS9#BBB#SSGhsX23MGS#9#
+#M,,    .:rH#&&@&&&SMM&@B99&@&&@99HGB&9#9#BBBS#GGM     ;XX5H
+#B2.    .s5##B&@@B#2:h&&GSH&@&&&B&9G9&#B##BB###GHMi,  :iii:;
+#9B2   .;,2HGS@&BGi 2#&#3MG@B&@&9B#&B9#B###9S#SHHMs;:;;rssri
+MBS#M:.:,23hh#9M2i ;9S&M53#&B&@9S9##B##BSGGS###HHhsrrrirsrss
+AhMG@9Ms395hMG;:5XrASG9A5599BB&#S#S#9G#9hhGMSS#SHhXsXsssssXX
+XX29&@B2MSMshH3GsX:rHHhsAAS##9BGGHHSG#&&55MXA3hHH3XXXsrsrssX
+isA5S&9X5hHMMSB3,r ;2MrriASGSS#hHMMGMH#S5AAAAAA253M2sXXXXXss
+;:s555h2X3MHh55Ar. ;r3s:iMHHGHS5hhMHhHHG5;2A52223MhAAAAXXAAh
+;:,s5A2rXXs253s:.  .isr.2MhMhMGihhMMhGHH5iAhhh33MM5XG9#SS#B@
+i:::sA2;A5225s,:    ::;;3335MG3;h3h3hHM332sA3hh3332XS&&@@@@&
+r;;:;AAXsXAAr:;..X. :,:X22A3Mh2:h3h23hh53A ;X222252XM&BB&&&&
+ri;;rA2Xirs; :i:2r . .:XXA5323s,h33A3355A s, :ssXX2X5B9B&BB9
+sriirs5srii::rXrM2 .  ;rA2AA25i.332A322X  #3  .rssX22#BB9##S
+2Xrrs25sii;ii2A2MH: , :sAsrsX2:,33XX5AA, r#S.;irssX25S&9#SGG
+H2Xss52i;;ir2323MH;  .rr,;rrrs .33;;2si.;MBS,.rrsssA5##GGHMM
+@S5XA2A.,iX5h35hMh. :s:  ,:iiii2H3.,s,:;;9BB5i;issrX2GGGHMMM
+B@Bh5AX:iA25MhhhM5.ir.  ,..,;r#@93.;;,; 3&S9&2rsssssXs2GHHMG
+hS&@hXXsA222hMMMM2s:       :::HB3X..,  s&9#&@G:;;iiri;iSSSSH
+33hS5ssX5555hMMM2i:  :      ,:ii .,    S&&@&@S,,:  .;i2BBB9S
+333hArXSGMhhhMh35..  .        ,    :i.iS@&&&&riisr  ;;B@&@&#
+hhhMsrMBB9#SGHhM2 ,   ,   .   ..    rr;sG@@@h,ssssrr,5@B&&@&
+MMHMr2BBBBB9#9#Hi,.  .,,       .    :i;rAh#9:isrsrii,GH#@@&9
+HGSHrG@&@&9BB&&G,:.   .... ... .    .i;;i:AA:rrri;i:i33H9ShG
+GS9GXB&&BB&@@&@3  .  ,     ..,.,    ,;i::,:;iii,,ii;2225553H
+S#BSG@@&&@@@@@@r          ,   ,,    .iii;;i;;:,:ir;X2AA222HB
+GS#S9B#9BBBBBBH.                     ::::::.. ,;;::rsssssX3h
+         .
+
+
