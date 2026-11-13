@@ -1,4 +1,4 @@
-# Hi, I'm shauatsmvec 👋
+# Hi, I'm Shahid khan 👋
 
 I build practical web applications and tools, with a focus on useful workflows and clear interfaces.
 
