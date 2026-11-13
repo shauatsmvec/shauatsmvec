@@ -4,7 +4,7 @@
   "out": "assets/swarm",
   "layout": {
     "table": true,
-    "portraitWidth": "38%",
+    "portraitWidth": "46%",
     "style": "markdown",
     "stagger": 0.16
   },
@@ -19,7 +19,7 @@
     "ascii": "portrait.txt",
     "title": "shauatsmvec / profile",
     "whoami": "Full-stack developer | Building practical web apps",
-    "alt": "An ASCII rendering of the illustrated helmeted character used as my GitHub avatar."
+    "alt": "An animated ASCII portrait generated from my profile artwork."
   },
   "about": {
     "title": "Building useful software.",
