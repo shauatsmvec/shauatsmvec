@@ -1,0 +1,64 @@
+{
+  "user": "shauatsmvec",
+  "readme": "README.md",
+  "out": "assets/swarm",
+  "layout": {
+    "table": true,
+    "portraitWidth": "38%",
+    "style": "markdown",
+    "stagger": 0.16
+  },
+  "cursors": {
+    "React": "#61dafb",
+    "TypeScript": "#3178c6",
+    "Supabase": "#3ecf8e",
+    "Node": "#82c91e",
+    "GitHub": "#a78bfa"
+  },
+  "portrait": {
+    "ascii": "portrait.txt",
+    "title": "shauatsmvec / profile",
+    "whoami": "Full-stack developer | Building practical web apps",
+    "alt": "A terminal-style monogram for shauatsmvec."
+  },
+  "about": {
+    "title": "Building useful software.",
+    "lines": [
+      "I build web apps and practical tools for everyday workflows.",
+      "Interested in full-stack development, thoughtful interfaces, and turning ideas into working products."
+    ]
+  },
+  "projects": {
+    "title": "Selected projects",
+    "items": [
+      {
+        "icon": "🧩",
+        "name": "aspivox",
+        "desc": "A TypeScript web application built with React and Supabase.",
+        "href": "https://github.com/shauatsmvec/aspivox"
+      },
+      {
+        "icon": "📦",
+        "name": "E-Trends Explorer",
+        "desc": "Retail management app for inventory, sales, procurement, and analytics.",
+        "href": "https://github.com/shauatsmvec/brindhavathi"
+      },
+      {
+        "icon": "🧾",
+        "name": "invoice-system",
+        "desc": "A project focused on invoice and billing workflows.",
+        "href": "https://github.com/shauatsmvec/invoice-system"
+      },
+      {
+        "icon": "⚙️",
+        "name": "klerk",
+        "desc": "A TypeScript project in my public portfolio.",
+        "href": "https://github.com/shauatsmvec/klerk"
+      }
+    ]
+  },
+  "toolkit": {
+    "title": "Tools I use",
+    "items": ["React", "TypeScript", "JavaScript", "Tailwind CSS", "Supabase", "Node.js"]
+  }
+}
