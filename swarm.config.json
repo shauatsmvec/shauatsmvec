@@ -18,8 +18,8 @@
   "about": {
     "title": "Building useful software.",
     "lines": [
-      "I build web apps and practical tools for everyday workflows.",
-      "Interested in full-stack development, thoughtful interfaces, and turning ideas into working products."
+      "I build full-stack web apps and practical tools.",
+      "I care about useful workflows and clear interfaces."
     ]
   },
   "projects": {
@@ -28,26 +28,20 @@
       {
         "icon": "🧩",
         "name": "aspivox",
-        "desc": "A TypeScript web application built with React and Supabase.",
+        "desc": "A React and Supabase web app.",
         "href": "https://github.com/shauatsmvec/aspivox"
       },
       {
         "icon": "📦",
         "name": "E-Trends Explorer",
-        "desc": "Retail management app for inventory, sales, procurement, and analytics.",
+        "desc": "Retail inventory, sales, and analytics.",
         "href": "https://github.com/shauatsmvec/brindhavathi"
       },
       {
         "icon": "🧾",
         "name": "invoice-system",
-        "desc": "A project focused on invoice and billing workflows.",
+        "desc": "Invoice and billing workflow software.",
         "href": "https://github.com/shauatsmvec/invoice-system"
-      },
-      {
-        "icon": "⚙️",
-        "name": "klerk",
-        "desc": "A TypeScript project in my public portfolio.",
-        "href": "https://github.com/shauatsmvec/klerk"
       }
     ]
   },
@@ -67,5 +61,28 @@
     "title": "shauatsmvec / profile",
     "whoami": "Full-stack developer | Building practical web apps",
     "alt": "Animated ASCII portrait based on my photo."
+  },
+  "timeline": {
+    "title": "profile / recent updates",
+    "footer": "profile-repo activity only",
+    "max": 6,
+    "days": 365,
+    "repos": [
+      "shauatsmvec"
+    ],
+    "fallback": [
+      {
+        "repo": "shauatsmvec",
+        "message": "Refresh profile overview"
+      },
+      {
+        "repo": "shauatsmvec",
+        "message": "Highlight selected projects"
+      },
+      {
+        "repo": "shauatsmvec",
+        "message": "Update portrait and toolkit"
+      }
+    ]
   }
 }
